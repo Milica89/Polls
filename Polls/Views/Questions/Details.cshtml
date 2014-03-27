@@ -1,0 +1,43 @@
+﻿@model Polls.Models.Question
+
+@{
+    ViewBag.Title = "Details";
+    }
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <p>Question:</p>
+        <p>@Html.DisplayFor(item => item.Text)</p>
+        @using (Html.BeginForm("Submit", "Questions"))
+        {
+            foreach (var answer in Model.Answers)
+            {
+                var voteExists = answer.Votes.Where(v => v.User.Name == User.Identity.Name).SingleOrDefault();
+                bool isChecked = false;
+                if (voteExists != null)
+                {
+                    isChecked = true; 
+                }
+                <p>
+                    @Html.RadioButton("answer", answer.AnswerID, isChecked: isChecked)
+                    <label for="answer">@Html.DisplayFor(a => answer.Text)</label>
+                </p>
+            }
+            <table>
+                <tr>
+                    <td><input type="submit" /></td>
+                    <td></td>
+                </tr>
+            </table>
+        }
+        
+        <label>Author: @Html.DisplayFor(u => Model.User.Name)</label>
+    </div>
+</body>
+</html>

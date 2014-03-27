@@ -1,0 +1,6 @@
+﻿@{   
+if (!WebSecurity.Initialized)
+{
+    WebSecurity.InitializeDatabaseConnection("dbContext", "Users", "Id", "Login", autoCreateTables: false); 
+}
+}

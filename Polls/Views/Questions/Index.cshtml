@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Polls.Models.Question>
+
+@{
+    ViewBag.Title = "Questions";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Questions</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Text)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Details", "Details", new { id = item.QuestionID })
+                </td>
+                <td>
+                    @Html.ActionLink("View statistics", "Statistics", new { question = item.Text, id = item.QuestionID })
+                </td>
+            </tr>
+        }
+
+    </table>
+    <p>
+        @ViewBag.ErrorMessage
+    </p>
+</body>
+</html>

@@ -1,0 +1,186 @@
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\Polls.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\Polls.pdb
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\EntityFramework.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\EntityFramework.SqlServer.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\Microsoft.Web.Infrastructure.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\Newtonsoft.Json.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Net.Http.Formatting.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Helpers.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Http.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Http.WebHost.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Mvc.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Razor.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Deployment.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Razor.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\EntityFramework.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\EntityFramework.SqlServer.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\Newtonsoft.Json.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Net.Http.Formatting.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Helpers.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Http.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Http.WebHost.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Mvc.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.Razor.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Deployment.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Razor.xml
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\obj\Debug\Polls.csprojResolveAssemblyReference.cache
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\obj\Debug\Polls.dll
+c:\users\m.dojic\documents\visual studio 2012\Projects\Polls\Polls\obj\Debug\Polls.pdb
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.csproj.GenerateResource.Cache
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.pdb
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Polls.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Polls.pdb
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.SqlServer.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Newtonsoft.Json.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Net.Http.Formatting.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Helpers.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.WebHost.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Mvc.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Razor.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Deployment.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Razor.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.SqlServer.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Newtonsoft.Json.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Net.Http.Formatting.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Helpers.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.WebHost.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Mvc.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Razor.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Deployment.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Razor.xml
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.Data.dll
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.WebData.dll
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.Data.xml
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.WebData.xml
+E:\Polls\Polls\bin\Polls.dll
+E:\Polls\Polls\bin\Polls.pdb
+E:\Polls\Polls\bin\EntityFramework.dll
+E:\Polls\Polls\bin\EntityFramework.SqlServer.dll
+E:\Polls\Polls\bin\Microsoft.Web.Infrastructure.dll
+E:\Polls\Polls\bin\Newtonsoft.Json.dll
+E:\Polls\Polls\bin\System.Net.Http.Formatting.dll
+E:\Polls\Polls\bin\System.Web.Helpers.dll
+E:\Polls\Polls\bin\System.Web.Http.dll
+E:\Polls\Polls\bin\System.Web.Http.WebHost.dll
+E:\Polls\Polls\bin\System.Web.Mvc.dll
+E:\Polls\Polls\bin\System.Web.Razor.dll
+E:\Polls\Polls\bin\System.Web.WebPages.Deployment.dll
+E:\Polls\Polls\bin\System.Web.WebPages.dll
+E:\Polls\Polls\bin\System.Web.WebPages.Razor.dll
+E:\Polls\Polls\bin\WebMatrix.Data.dll
+E:\Polls\Polls\bin\WebMatrix.WebData.dll
+E:\Polls\Polls\bin\EntityFramework.xml
+E:\Polls\Polls\bin\EntityFramework.SqlServer.xml
+E:\Polls\Polls\bin\Newtonsoft.Json.xml
+E:\Polls\Polls\bin\System.Net.Http.Formatting.xml
+E:\Polls\Polls\bin\System.Web.Helpers.xml
+E:\Polls\Polls\bin\System.Web.Http.xml
+E:\Polls\Polls\bin\System.Web.Http.WebHost.xml
+E:\Polls\Polls\bin\System.Web.Mvc.xml
+E:\Polls\Polls\bin\System.Web.Razor.xml
+E:\Polls\Polls\bin\System.Web.WebPages.xml
+E:\Polls\Polls\bin\System.Web.WebPages.Deployment.xml
+E:\Polls\Polls\bin\System.Web.WebPages.Razor.xml
+E:\Polls\Polls\bin\WebMatrix.Data.xml
+E:\Polls\Polls\bin\WebMatrix.WebData.xml
+E:\Polls\Polls\obj\Debug\Polls.csprojResolveAssemblyReference.cache
+E:\Polls\Polls\obj\Debug\Polls.Migrations.InintialCreate.resources
+E:\Polls\Polls\obj\Debug\Polls.csproj.GenerateResource.Cache
+E:\Polls\Polls\obj\Debug\Polls.dll
+E:\Polls\Polls\obj\Debug\Polls.pdb
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\Polls.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\Polls.pdb
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\EntityFramework.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\EntityFramework.SqlServer.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\Newtonsoft.Json.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Net.Http.Formatting.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Helpers.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Http.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Http.WebHost.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Mvc.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Razor.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.WebPages.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.WebPages.Razor.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\WebMatrix.Data.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\WebMatrix.WebData.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\EntityFramework.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\EntityFramework.SqlServer.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\Newtonsoft.Json.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Net.Http.Formatting.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Helpers.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Http.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Http.WebHost.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Mvc.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.Razor.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.WebPages.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\System.Web.WebPages.Razor.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\WebMatrix.Data.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\bin\WebMatrix.WebData.xml
+C:\Users\m.dojic\Desktop\Polls\Polls\obj\Debug\Polls.csprojResolveAssemblyReference.cache
+C:\Users\m.dojic\Desktop\Polls\Polls\obj\Debug\Polls.Migrations.InintialCreate.resources
+C:\Users\m.dojic\Desktop\Polls\Polls\obj\Debug\Polls.csproj.GenerateResource.Cache
+C:\Users\m.dojic\Desktop\Polls\Polls\obj\Debug\Polls.dll
+C:\Users\m.dojic\Desktop\Polls\Polls\obj\Debug\Polls.pdb
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate.resources
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.csproj.GenerateResource.Cache
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.Data.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.WebData.dll
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.Data.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.WebData.xml
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate.resources
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate1.resources
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate1.resources
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate2.resources
+C:\Users\InformD\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.csprojResolveAssemblyReference.cache
+C:\Users\m.dojic\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate2.resources
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Polls.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Polls.pdb
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.SqlServer.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Newtonsoft.Json.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Net.Http.Formatting.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Helpers.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.WebHost.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Mvc.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Razor.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Razor.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.Data.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.WebData.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\EntityFramework.SqlServer.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\Newtonsoft.Json.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Net.Http.Formatting.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Helpers.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Http.WebHost.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Mvc.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.Razor.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\System.Web.WebPages.Razor.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.Data.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\bin\WebMatrix.WebData.xml
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.csprojResolveAssemblyReference.cache
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate.resources
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate1.resources
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.Migrations.InitialCreate2.resources
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.csproj.GenerateResource.Cache
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.dll
+C:\Users\Milica\Documents\Visual Studio 2012\Projects\Polls\Polls\obj\Debug\Polls.pdb

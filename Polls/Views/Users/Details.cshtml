@@ -1,0 +1,19 @@
+﻿@model Polls.Models.User
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <p>Name: @Html.DisplayFor(item => item.Name)</p>
+        <p>Polls created: @Html.DisplayFor(item => item.Questions.Count)</p>
+        <p>Polls answered: @Html.DisplayFor(item => item.Answers.Count)</p>
+    </div>
+</body>
+</html>

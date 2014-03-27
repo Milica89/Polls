@@ -1,0 +1,32 @@
+﻿@model IQueryable<Polls.ViewModels.QuestionStatistics>
+
+@{
+    ViewBag.Title = "Statistics";
+}
+
+<h2>Statistics</h2>
+
+<div>
+    <p>Question: @ViewBag.Question</p>
+
+    <table>
+        <tr>
+            <th>Answer</th>
+            <th>Number of votes</th>
+        </tr>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(s => d.Answer)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(s => d.NumberOfVotes)
+                </td>
+            </tr>
+        }
+    </table>
+   
+
+</div>

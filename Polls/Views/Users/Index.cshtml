@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Polls.Models.User>
+@{
+    ViewBag.Title = "Users";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Users</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>Polls created:
+            </th>
+            <th>Polls answered:</th>
+        </tr>
+
+        @try
+        {
+            foreach (var item in Model)
+            {
+                if (item.IsDeleted == false)
+                {                 
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Questions.Count)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Votes.Count)
+                </td>
+            </tr>
+                }
+            }
+        }
+        catch (ArgumentNullException)
+        {
+            Write("no users available");
+        }
+        catch (NullReferenceException)
+        {
+            Write("no users available");
+        }
+
+    </table>
+</body>
+</html>

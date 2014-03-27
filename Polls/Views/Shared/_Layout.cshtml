@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>      
+    <meta name="viewport" content="width=device-width" />
+    <title>Polls - @ViewBag.Title</title> 
+</head>
+<body>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>Polls</p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    @Html.Partial("_LoginPartial")
+                </section>
+                <nav>
+                    <ul>
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("Users", "Index", "Users")</li>
+                        <li>@Html.ActionLink("Polls", "Index", "Questions")</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div>       
+        @RenderBody()
+    </div>
+</body>
+</html>
